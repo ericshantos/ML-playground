@@ -79,4 +79,4 @@ Sinta-se à vontade para explorar, melhorar e sugerir alterações neste projeto
 
 ## 🛡️ Licença
 
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](../../LICENSE) para mais detalhes.
