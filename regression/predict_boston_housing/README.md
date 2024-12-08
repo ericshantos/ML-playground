@@ -42,12 +42,12 @@ Os principais passos incluem:
 ### 3️⃣ Criação do Modelo
 O modelo foi criado utilizando **regressão linear múltipla** da biblioteca **Scikit-learn** com a fórmula básica:
 
-> \( Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \ldots + \beta_n X_n \)
+> Y = β<sub>0</sub> + β<sub>1</sub>X<sub>1</sub> + β<sub>2</sub>X<sub>2</sub> + ... + β<sub>n</sub>X<sub>n</sub>
 
 Onde:
 - \( Y \): Valor médio da casa (**MEDV**)
-- \( X_1, X_2, ..., X_n \): Variáveis preditoras
-- \( \beta_0, \beta_1, ..., \beta_n \): Coeficientes do modelo
+- \( X<sub>1</sub>, X<sub>2</sub>, ..., X<sub>n</sub> \): Variáveis preditoras
+- β<sub>0</sub>, β<sub>1</sub>, ..., β<sub>n</sub>: Coeficientes do modelo
 
 ### 4️⃣ Treinamento e Avaliação
 - **Métricas utilizadas**: R², MSE (Erro Quadrático Médio) e MAE (Erro Médio Absoluto).
