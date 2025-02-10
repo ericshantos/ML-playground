@@ -1,7 +1,3 @@
-Com base no código fornecido e no modelo solicitado, aqui está um exemplo de README.md personalizado para o seu repositório GitHub:
-
----
-
 # 🧑‍💻 Modelo de Previsão de Dígitos Manuscritos (MNIST)
 
 Este projeto visa construir e treinar um modelo de redes neurais convolucionais (CNN) para reconhecer dígitos manuscritos utilizando o famoso conjunto de dados MNIST. O objetivo é classificar imagens de dígitos de 0 a 9, utilizando uma arquitetura de rede neural com camadas convolucionais e densas.
