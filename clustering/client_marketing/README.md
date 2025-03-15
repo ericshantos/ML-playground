@@ -51,6 +51,7 @@ Você pode instalar todas as dependências utilizando o seguinte comando:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn kagglehub
+```
 
 ## Como Executar
 
