@@ -76,4 +76,4 @@ jupyter notebook clustering_species_flowers.ipynb
 
 ## Licença
 
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](../../LICENSE) para mais detalhes.
