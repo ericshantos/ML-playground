@@ -57,13 +57,13 @@ Avalia a qualidade dos clusters utilizando o **Índice de Silhueta**.
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/clustering-species-flowers.git
+git clone https://github.com/ericshantos/ML-playground.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd clustering-species-flowers
+cd clustering/species-flowers
 ```
 
 3. Abra o notebook Jupyter:
