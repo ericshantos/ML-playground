@@ -78,12 +78,7 @@ O algoritmo K-means foi capaz de identificar 5 clusters distintos de clientes co
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Autor
-
-- **Eric dos Santos**
-- **Contato**: eric.santos@example.com
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](../../LICENSE) para mais detalhes.
 
 ## Agradecimentos
 
