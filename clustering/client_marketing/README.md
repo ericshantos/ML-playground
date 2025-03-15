@@ -58,13 +58,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn kagglehub
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/clustering-client-marketing.git
+git clone https://github.com/ericshantos/ML-playground.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd clustering-client-marketing
+cd clustering/client-marketing
 ```
 
 3. Execute o notebook Jupyter:
